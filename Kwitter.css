@@ -1,0 +1,63 @@
+.header img{
+	width: 80px;
+    margin-left: -15px;
+
+}
+.half_longin img{
+    width: 800px;
+}
+body{
+    background-image: url("https://trumpwallpapers.com/wp-content/uploads/Colorful-Wallpaper-01-1280x720-1.jpg");
+    background-size: cover;
+}
+#login_img{
+    width: 500px;
+    margin-top: 58px;
+    border:solid;
+    border-color:whitesmoke;
+    border-width: 5px;
+}
+#adduser{
+    font-size: medium ;
+    position: absolute;
+    z-index: 10;
+    left: 455px;
+    top: 200px;
+}
+#btn_adduser{
+    color:whitesmoke;
+    background-color: black;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+.body2{
+    background-image: url("https://trumpwallpapers.com/wp-content/uploads/Colorful-Wallpaper-01-1280x720-1.jpg");
+}
+.room_name{
+	cursor: pointer;
+	font-size: 20px;
+    top: 50px;
+}
+.input_div_message_page{
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+
+}
+.user_tick
+{
+	width:20px;
+}
+.h4Message
+{
+	padding-left:5px;color:grey;
+    color: white;
+}
+.name{
+    color: white;
+}
+
+
+
